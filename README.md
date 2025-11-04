@@ -25,7 +25,7 @@ A simple Python-based real-time chat application using **TCP** and **multi-threa
    python server.py
 Output: [LISTENING] Server is listening on localhost:5050
 
-Start Clients
+2. Start Clients
   ```bash
    python server.py
 
